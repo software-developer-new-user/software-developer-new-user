@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @software-developer-new-user
+- 👋 Hi, I am professional with fullstack software development.
 - 👀 I’m interested in software development as well as video game development.
 - 🌱 I’m currently looking for fulltime position as a software developer.
 
